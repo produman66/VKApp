@@ -90,7 +90,9 @@ class SearchFragment : Fragment() {
             searchJob?.cancel()
             searchJob = lifecycleScope.launch {
                 delay(500)
-                initProductsViewModel(searchQuery.toString())
+                if (searchQuery.toString().isNotEmpty()){
+                    initProductsViewModel(searchQuery.toString())
+                }
             }
         }
     }
