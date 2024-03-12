@@ -1,7 +1,7 @@
 
 # Тестовое задание от VK. Android приложение, отображающее вывод товаров используя предоставленные данные  
 
-Резюме: https://drive.google.com/file/d/1A99tjowbGJ3MW2limVrFLC3IuJALrQjB/view
+[Резюме](https://drive.google.com/file/d/1A99tjowbGJ3MW2limVrFLC3IuJALrQjB/view)
 
 
 # Экран «Home»
