@@ -5,10 +5,6 @@
 
 
 # Экран «Home»
-На этом экране отражено основное задание, а именно:
-- Реализовано отображение списка товаров по 20 штук на странице. 
-- Есть отображение полей title, description и thumbnail.
-
 ![image 137](https://github.com/produman66/VKApp/assets/115027939/82f95c54-2a15-4563-9e8c-be079efb5249)
 ![image 136](https://github.com/produman66/VKApp/assets/115027939/5e48e2a4-7ea3-4ab5-962e-5d3b8ccf4890)
 ![image 138](https://github.com/produman66/VKApp/assets/115027939/ae1c6249-a6b6-4594-89e0-cc4f621d03ea)
