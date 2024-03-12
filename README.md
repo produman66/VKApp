@@ -1,30 +1,16 @@
-# Тестовое задание от VK. Android приложение, отображающее вывод товаров использя предоставленные данные 
+
+# Тестовое задание от VK. Android приложение, отображающее вывод товаров используя предоставленные данные  
+
+Резюме: https://drive.google.com/file/d/1A99tjowbGJ3MW2limVrFLC3IuJALrQjB/view
 
 
-# Стек технологий
-- Kotlin
-- LiveData
-- Retrofit
-- ViewBinding
-- Fragments
-- Navigation Component
-- Верстка обычная на XML
-- Glide
-- MVVM
 # Экран «Home»
 На этом экране отражено основное задание, а именно:
 - Реализовано отображение списка товаров по 20 штук на странице. 
 - Есть отображение полей title, description и thumbnail.
 
-![image 136](https://github.com/produman66/VKApp/assets/115027939/5e48e2a4-7ea3-4ab5-962e-5d3b8ccf4890)
 ![image 137](https://github.com/produman66/VKApp/assets/115027939/82f95c54-2a15-4563-9e8c-be079efb5249)
-
-Дополнительное задание: 
-- Отображение дополнительных полей rating, price и discounted price
-- Сортировка по катеогориям, используя горизонтальный список вверху экрана
-- По нажатию на элемент списка происходит переход в карточку товара
-- По нажатию на лупу происходит переход на экран поиска
-
+![image 136](https://github.com/produman66/VKApp/assets/115027939/5e48e2a4-7ea3-4ab5-962e-5d3b8ccf4890)
 ![image 138](https://github.com/produman66/VKApp/assets/115027939/ae1c6249-a6b6-4594-89e0-cc4f621d03ea)
 ![image 139](https://github.com/produman66/VKApp/assets/115027939/e78b906d-60f7-48b9-a703-07603f19dbd0)
 
@@ -41,10 +27,32 @@
 # Обработка ошибок и загрузка
 В случае ошибки подключения или на стороне сервера, приложение даст об этом знать 
 
-![image 147](https://github.com/produman66/VKApp/assets/115027939/f062f1de-b581-4c4c-a332-cd006b6adedd)
-
 В случае загрузки элементов, пользователь будет видеть, что приложение находится на этапе загрузки
+
+![image 147](https://github.com/produman66/VKApp/assets/115027939/f062f1de-b581-4c4c-a332-cd006b6adedd)
 ![image 148](https://github.com/produman66/VKApp/assets/115027939/556b6767-3aa7-4ff1-90f1-6651e010e69b)
+
+
+# Стек технологий
+- Kotlin
+- LiveData
+- Retrofit
+- ViewBinding
+- Fragments
+- Navigation Component
+- Верстка обычная на XML
+- Glide
+- MVVM
+
+# Статус выполнения задач
+
+| Задание                          | Готовность    |
+| -------------------------------- | ------------- |
+| Основное задание                 | Готово        |
+| Отображение дополнительных полей | Готово        |
+| Переход на экран товара          | Готово        |
+| Сортировка по категориям         | Готово        |
+| Поик                             | Готово        |
 
 
 
