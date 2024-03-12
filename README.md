@@ -53,7 +53,7 @@
 
 # Загрузка
 
-Скачать [.apk](https://pages.github.com/produman66/VKApp/releases/tag/FirstRelease) файл на андроид устройство
+Скачать [.apk](https://github.com/produman66/VKApp/releases/tag/FirstRelease) файл на андроид устройство
 
 
 
