@@ -50,6 +50,10 @@
 | Сортировка по категориям         | Готово        |
 | Поик                             | Готово        |
 
+# Загрузка
+
+Скачать [.apk](https://pages.github.com/produman66/VKApp/releases/tag/FirstRelease) файл на андроид устройство
+
 
 
 
